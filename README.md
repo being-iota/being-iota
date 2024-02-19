@@ -1,10 +1,8 @@
-<h1> Hi there😉Ratnapriya this side!</h1>
-
-<!--
-**being-iota/being-iota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-
+<h1 align="center"> Hi,Ratnapriya this side!</h1>
+<h3 align="left">About:</h3>
+🔥 Currently Learning <b> C++</b>
+<br>
+🍃 Working on <b> C Language</b>
+<br>
+ 🌏 How to reach me: <b>ratnapriya2954@gmail.com</b>
+ <br>
