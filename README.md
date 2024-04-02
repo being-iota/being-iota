@@ -2,7 +2,7 @@
 <h3 align="left">About:</h3>
 🔥 Currently Learning <b> C++</b>
 <br>
-🍃 Working on <b> C Language</b>
+🍃 Working on <b> Web Development </b>
 <br>
  🌏 How to reach me: <b>ratnapriya2954@gmail.com</b>
  <br>
