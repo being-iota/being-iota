@@ -13,9 +13,8 @@
 
 ## About Me
 
-Pre-final year **CS + Data Science** undergrad @ GL Bajaj Institute of Technology and Management.
-
-I build AI systems that work in the real world — offline, multilingual, production-ready.
+Pre-final year **CSE (Data Science)** undergrad.
+I build and ship AI/ML and full-stack systems that solve real-world problems — from AI security tools to scalable platforms, from hackathon stages to C-suite demos.
 
 - 🚀 Built **Guru-G**: offline AI platform in 22+ Indian languages, runs on 4GB RAM, zero cloud dependency — presented to the **CEO of Fidelity International**
 - 🏆 AI security research recognized at **Thales India** felicitation ceremony
@@ -26,6 +25,31 @@ I build AI systems that work in the real world — offline, multilingual, produc
 - 📣 **120K+ LinkedIn impressions**
 
 > *Currently seeking internships in AI/ML or Full Stack Engineering*
+
+---
+
+## Open Source Contributions
+
+> Shipped real code to production codebases used by thousands of developers & learners worldwide.
+
+| Organization | Focus Area |
+|---|---|
+| 🤖 [@fossai](https://github.com/fossai) | Open-source AI tooling & community |
+| 📚 [@oppia](https://github.com/oppia) | Interactive learning platform (Google-backed, 100K+ users) |
+| 📈 [@sktime](https://github.com/sktime) | Time series ML library (10K+ GitHub stars) |
+| 🏢 [@YNVSolutions](https://github.com/YNVSolutions) | Production engineering contributions |
+
+---
+
+## Experience & Community
+
+| Role | Organization |
+|------|-------------|
+| 💼 Internships *(3 in 12 months)* | PW (PhysicsWallah) · YNV Solutions · Dazu Services |
+| 🔴 GDG Lead | Google Developer Groups, GLBITM |
+| 🟡 Sole Campus Ambassador | HackerRank Campus Crew |
+| 🟢 Forward Program Fellow | McKinsey.org |
+| ⚫ Other Teams | GeeksForGeeks · E-Cell IIT Bombay · The nameSpace Community · Codespace Club & Shrinik Club |
 
 ---
 
@@ -92,20 +116,6 @@ I build AI systems that work in the real world — offline, multilingual, produc
 - AI-powered deobfuscation pipeline combining reverse engineering + LLMs
 - Recognized at **Thales India** felicitation ceremony (Noida)
 - Focused on malware analysis, security auditing & code transparency
-
----
-
-## Experience, Open Source & Community
-
-| Role | Organization |
-|------|-------------|
-| 🔴 GDG Lead | Google Developer Groups, GLBITM |
-| 🟡 Sole Campus Ambassador | HackerRank Campus Crew |
-| 🟢 Forward Program Fellow | McKinsey.org |
-| 🔵 Full Stack Developer Intern | Dazu Services |
-| 🟠 SDE Intern | YNV Solutions |
-| 🟣 Growth & Ops Intern | PW (PhysicsWallah) |
-| ⚫ Other Teams | GeeksForGeeks · E-Cell IIT Bombay · The nameSpace Community · Codespace Club & Shrinik Club |
 
 ---
 
