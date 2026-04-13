@@ -34,7 +34,7 @@ I build and ship AI/ML and full-stack systems that solve real-world problems —
 
 | Organization | Focus Area |
 |---|---|
-| 🤖 [@fossai](https://github.com/fossai) | Open-source AI tooling & community |
+| 🤖 [@fossasia](https://github.com/fossasia) | Open-source AI tooling & community |
 | 📚 [@oppia](https://github.com/oppia) | Interactive learning platform (Google-backed, 100K+ users) |
 | 📈 [@sktime](https://github.com/sktime) | Time series ML library (10K+ GitHub stars) |
 | 🏢 [@YNVSolutions](https://github.com/YNVSolutions) | Production engineering contributions |
