@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+## About Me!
 
 Pre-final year **CSE (Data Science)** undergrad.
 I build and ship AI/ML and full-stack systems that solve real-world problems — from AI security tools to scalable platforms, from hackathon stages to C-suite demos.
