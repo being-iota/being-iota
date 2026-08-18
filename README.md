@@ -123,10 +123,9 @@ I build and ship AI/ML and full-stack systems that solve real-world problems —
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=being-iota&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=being-iota&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
 ---
 
 <div align="center">
