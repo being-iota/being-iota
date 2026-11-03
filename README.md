@@ -1,138 +1,73 @@
+
 <div align="center">
 
-# Hey, I'm Ratnapriya 👋
-### Full Stack AI Engineer · GDG Lead · Open Source Contributor
+# ratnapriya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ratnapriya2954-0A66C2?style=flat&logo=linkedin)](http://www.linkedin.com/in/ratnapriya2954)
-[![GitHub](https://img.shields.io/badge/GitHub-being--iota-181717?style=flat&logo=github)](https://github.com/being-iota)
-[![Email](https://img.shields.io/badge/Email-ratnapriya2954@gmail.com-EA4335?style=flat&logo=gmail)](mailto:ratnapriya2954@gmail.com)
+**AI/ML Engineer · Full-Stack Developer · Open Source Contributor**
+
+*building intelligent systems, thoughtfully.*
+
+[linkedin](https://linkedin.com/in/ratnapriya2954) · [github](https://github.com/being-iota) · [email](mailto:ratnapriya2954@gmail.com)
 
 </div>
 
----
+### about
 
-## About Me!
+I work across AI and software engineering, building systems that are practical, efficient, and designed for real-world use.
 
-Pre-final year **CSE (Data Science)** undergrad.
-I build and ship AI/ML and full-stack systems that solve real-world problems — from AI security tools to scalable platforms, from hackathon stages to C-suite demos.
+Currently exploring **LLMs, intelligent applications, and scalable software** — with a soft spot for solving problems that aren't solved by simply adding another API.
 
-- 🚀 Built **Guru-G**: offline AI platform in 22+ Indian languages, runs on 4GB RAM, zero cloud dependency — presented to the **CEO of Fidelity International**
-- 🏆 AI security research recognized at **Thales India** felicitation ceremony
-- 🌐 Selected for **McKinsey.org Forward Program** (global cohort)
-- 👩‍💻 **GDG GLBITM Lead** · Sole **HackerRank Campus Ambassador**
-- 💼 3 internships in 12 months — Dazu Services · PW · YNV Solutions
-- 🧠 **500+ LeetCode** problems solved
-- 📣 **120K+ LinkedIn impressions**
+### things i've built
 
-> *Currently seeking internships in AI/ML or Full Stack Engineering*
+<table>
+<tr>
+<td width="50%">
 
----
+**01 / Guru-G**
 
-## Open Source Contributions
+`Offline AI` `Education`
 
-> Shipped real code to production codebases used by thousands of developers & learners worldwide.
+An offline-first AI learning companion built for low-connectivity environments.
 
-| Organization | Focus Area |
-|---|---|
-| 🤖 [@fossasia](https://github.com/fossasia) | Open-source AI tooling & community |
-| 📚 [@oppia](https://github.com/oppia) | Interactive learning platform (Google-backed, 100K+ users) |
-| 📈 [@sktime](https://github.com/sktime) | Time series ML library (10K+ GitHub stars) |
-| 🏢 [@YNVSolutions](https://github.com/YNVSolutions) | Production engineering contributions |
+22+ Indian languages. 4GB RAM. Zero cloud dependency.
 
----
+</td>
+<td width="50%">
 
-## Experience & Community
+**02 / AegisAI**
 
-| Role | Organization |
-|------|-------------|
-| 💼 Internships *(3 in 12 months)* | PW (PhysicsWallah) · YNV Solutions · Dazu Services |
-| 🔴 GDG Lead | Google Developer Groups, GLBITM |
-| 🟡 Sole Campus Ambassador | HackerRank Campus Crew |
-| 🟢 Forward Program Fellow | McKinsey.org |
-| ⚫ Other Teams | GeeksForGeeks · E-Cell IIT Bombay · The nameSpace Community · Codespace Club & Shrinik Club |
+`AI` `Cybersecurity`
 
----
+An ML-powered threat detection system that identifies suspicious behavior across security events using behavioral anomaly detection.
 
-## Tech Stack
+20K+ simulated events.
 
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=flat)
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-**Full Stack**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**03 / Code With Buddy**
 
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+`Full Stack` `Real-time Collaboration`
 
----
+A collaborative coding environment built with React, CodeMirror, and Socket.IO, enabling developers to code together in a shared workspace with support for 100+ concurrent users.
 
-## Featured Projects
+</td>
+</tr>
+</table>
 
-### 🧠 Guru-G — Offline AI Education Platform
-> React 19 · TypeScript · Node.js · MongoDB · ChromaDB · Ollama · DeepSeek-R1 · NLLB-200 · Expo
+### open source
 
-- Supports **22+ Indian languages** with on-device AI reasoning
-- Runs on **4GB RAM** with **zero cloud dependency**
-- RAG-based chat with ChromaDB + Tesseract.js OCR for offline document understanding
-- Featured on **GL Bajaj Institute** official page · Presented to CEO of **Fidelity International**
+Merged contributions to **FOSSASIA** and **sktime-mcp**, working on modular service architecture, dependency management, and MCP integrations.
 
----
+### stack
 
-### 🔐 Aegis AI — AI Security Platform
-> FastAPI · Python · Scikit-Learn · Streamlit · Docker
-
-- Detects identity, login & cloud anomalies using **Isolation Forest**
-- Trained ResNet-18 with FGSM/PGD adversarial attacks → **45% improved robustness**
-- Real-time threat dashboard with anomaly scores and alerts
-
----
-
-### 🌊 Samudra AI — Marine Data Intelligence
-> FastAPI · React.js · Pandas · Material-UI · Docker
-
-- Real-time analysis of oceanographic datasets for **SIH use cases**
-- Automated ETL pipelines → **40% improved data reliability**
-- Interactive dashboard for tides, salinity, currents & weather trends
-
----
-
-### 🔍 MayaCrack — Android Code Deobfuscator
-> Python · LLMs · Reverse Engineering
-
-- AI-powered deobfuscation pipeline combining reverse engineering + LLMs
-- Recognized at **Thales India** felicitation ceremony (Noida)
-- Focused on malware analysis, security auditing & code transparency
-
----
-
-## GitHub Stats
+`Python` `C++` `TypeScript` `React` `Next.js`  
+`FastAPI` `PyTorch` `LLMs` `RAG` `Docker`
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=being-iota&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
----
-
-<div align="center">
-
-**Open to internships in AI/ML or Full Stack Engineering**
-📩 ratnapriya2954@gmail.com
-
-![Profile Views](https://komarev.com/ghpvc/?username=being-iota&color=1D9E75&style=flat)
+*curious by default. building by choice.*
 
 </div>
